@@ -1,0 +1,11 @@
+QUESTIONS TAUGHT IN CLASS:
+1. Hello world with tab
+2. Ascii value I
+3. Rounding values
+4. Mathematical operator calculator
+QUESTIONS FOR FAST LEARNERS:
+1. Operator Precedence Evaluation
+2. Logical Expression Evaluation
+3. Mixed Data Type Operations
+
+
