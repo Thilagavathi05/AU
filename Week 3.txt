@@ -1,0 +1,15 @@
+QUESTIONS TAKEN IN CLASS:
+1. Electicity bill 
+2. Hotel tariff calculator
+3. Car rental charges for a travel agency
+4. Check whether a triangle is right angled triangle
+5. Movie Ticket price Calculator
+6. Trendy Number
+7. Calculating profit and loss
+
+QUESTIONS FOR FAST LEARNERS:
+1. Salary tax deduxtion system
+2. Triangle type validator
+3. Online exam result processor
+4. ATM withdrawal validator
+5. Smart Login System
