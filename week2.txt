@@ -1,0 +1,12 @@
+QUESTIONS TAKEN IN CLASS:
+1. Student information management system
+2. User Registration system
+3. Fitness app
+4. Profit calculation for herald newspaper
+5. Team  games with ross geller
+6. Tic tac toe
+QUESTIONS FOR FAST LEARNERS:
+1. Eligibility check for voting
+2. Divisibily validator for two numbers
+3. Working with bitwise and arithmetic operators
+4. Identity vs equality check
