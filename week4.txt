@@ -1,0 +1,13 @@
+Questions taught in class:
+1. Calculating daily profit
+2. Second largest number
+3. Multiplication table
+4. Fibonacci sequence
+Leetcode questions:
+1. Add digits
+2. Perfect number
+Questions for fast learners:
+1.Calculating overs and eligibity to win in cricket based on run rate
+2. Geometric precision
+3. Sum of largest k numbers in a list
+4. Armstrong number
